@@ -20,4 +20,4 @@ dependence of effective $\Lambda$ on radius
 
 
 
-":wq!"
+
